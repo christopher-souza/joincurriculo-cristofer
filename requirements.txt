@@ -1,0 +1,6 @@
+Django
+httplib2
+requests
+whitenoise
+gunicorn
+applicationinsights
